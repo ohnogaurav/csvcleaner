@@ -1,5 +1,5 @@
 # CSV Cleaner
-Struggling with Excel and Tableau for data cleaning? Don’t sweat it! This CSV Cleaner is your one-click solution to effortless data preparation!
+Struggling with Excel and Tableau for data cleaning ? Don’t sweat it! This CSV Cleaner is your one-click solution to effortless data preparation!
 
 
 ## Overview
