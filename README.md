@@ -50,6 +50,5 @@ CSV Cleaner is a Python-based tool designed to help users clean and preprocess C
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
